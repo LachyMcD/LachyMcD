@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LachyMcD
-- 👀 I’m interested in language, music, and technology.
-- 🌱 I’m currently learning Spanish. 🇪🇸
+- 👀 I’m interested in language, music, and science.
+- 🌱 I’m currently learning Spanish and Rust.
 - 📫 Shoot me a message on Linkedin! (in/lachymcd)
 
 <!---
