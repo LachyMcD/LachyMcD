@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @LachyMcD
-- 👀 I’m interested in language, music, and science
-- 🌱 I’m currently learning Spanish and PERN / MERN Stack Development
+- 👀 I’m interested in languages and computers
